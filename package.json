@@ -7,9 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
-<<<<<<< HEAD
     "randomcolor": "^0.5.4"
-=======
->>>>>>> origin/master
   }
 }
