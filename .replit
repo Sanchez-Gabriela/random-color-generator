@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 languaje = "nodejs"
 run = "node index.js"
+=======
+language = "nodejs"
+run = ""
+>>>>>>> origin/master
