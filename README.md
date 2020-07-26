@@ -2,6 +2,10 @@
 
 The background color is generated through random hexadecimal color codes.
 
+## Technolgies
+
+- Node.js
+
 ## Install
 
 ``` $ npm install chalk ```
