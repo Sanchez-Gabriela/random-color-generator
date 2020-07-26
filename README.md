@@ -15,3 +15,4 @@ The background color is generated through random hexadecimal color codes.
 
 
 
+https://repl.it/@SanchezGabriela/random-color-generator-2#index.js
