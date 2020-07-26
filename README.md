@@ -11,5 +11,7 @@ The background color is generated through random hexadecimal color codes.
 ``` $ npm install chalk ```
 
 
-[![Screenshot-2020-05-16-at-10-00-55.png](https://i.postimg.cc/V6fYvSCq/Screenshot-2020-05-16-at-10-00-55.png)](https://postimg.cc/zLQmPGpv)
+<img src="/screenshots/Screenshot 2020-07-26 at 08.58.39.png" width="400" />
+
+
 
